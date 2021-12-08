@@ -13,3 +13,7 @@ _RDF Validation_
 * [SHACL Play](https://shacl-play.sparna.fr/play/) -- to extract shapes from Ontologies :: OWL to SHACL converter 
 * Shapes extraction using ontology patterns: -- to extract shapes from Ontologies :: Towards improving the quality of knowledge graphs with data-driven ontology patterns and SHACL by Spahiu et al.
 * Protégé -- to define shapes manually
+
+_Synthetic Data Generation_
+* [Syntho](https://www.syntho.ai)
+* [Synthetic Data Vault](https://sdv.dev/)
