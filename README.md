@@ -17,3 +17,9 @@ _RDF Validation_
 _Synthetic Data Generation_
 * [Syntho](https://www.syntho.ai)
 * [Synthetic Data Vault](https://sdv.dev/)
+
+_Annotation_
+* [Label Studio](https://labelstud.io/playground/#) - Mixed annotation
+* [Prodigy](https://prodi.gy/) - Annotation tool that uses active learning
+* [Hypothesis](https://web.hypothes.is/) - Web page annotation
+* [Doccano](https://doccano.herokuapp.com/) - Text Annotation
