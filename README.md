@@ -1,6 +1,11 @@
 # links
 to capture links to various resources
 
+_RDF interaction_
+* [SPARQL Anything](https://sparql-anything.readthedocs.io/en/latest/) -- query local/remote documents with sparql, deploy local fuseki server with yasgui interface.
+* [YASGUI](https://github.com/TriplyDB/Yasgui) -- user interface for formulating SPARQL queries, with autocomplete.
+* [SPARKLIS](http://www.irisa.fr/LIS/ferre/sparklis/) -- interface that uses a controlled natural language to query SPARQL endpoints
+
 _RDF Validation_
 * [RDFShape](http://rdfshape.weso.es) -- to extract shapes from RDF graphs :: A Web app and library to extract SHACL/ShEx
 * [SheXer](http://shexer.weso.es) -- to extract shapes from RDF graphs :: A library for automatic extraction of SHACL/ShEx
