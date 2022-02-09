@@ -7,6 +7,7 @@ _RDF interaction_
 * [SPARKLIS](http://www.irisa.fr/LIS/ferre/sparklis/) -- interface that uses a controlled natural language to query SPARQL endpoints
 
 _RDF Validation_
+* [YASHE](https://www.weso.es/YASHE/) -- A SheE editor with syntax checking and autocomplete
 * [RDFShape](http://rdfshape.weso.es) -- to extract shapes from RDF graphs :: A Web app and library to extract SHACL/ShEx
 * [SheXer](http://shexer.weso.es) -- to extract shapes from RDF graphs :: A library for automatic extraction of SHACL/ShEx
 * [Shape Designer](https://gitlab.inria.fr/jdusart/shexjapp) -- to extract shapes from RDF graphs :: A Java tool to extract SHACL/ShEx by Boneva et al
