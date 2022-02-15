@@ -6,6 +6,16 @@ _RDF interaction_
 * [YASGUI](https://github.com/TriplyDB/Yasgui) -- user interface for formulating SPARQL queries, with autocomplete.
 * [SPARKLIS](http://www.irisa.fr/LIS/ferre/sparklis/) -- interface that uses a controlled natural language to query SPARQL endpoints
 
+_RDF Graph Databases_
+* [Virtuoso](http://vos.openlinksw.com/owiki/wiki/VOS) --  Virtuoso is a high-performance object-relational SQL database with WebDAV and SPARQL embedded into SQL for querying RDF data.
+* [GraphDB](https://graphdb.ontotext.com/) -- GraphDB is an enterprise ready Semantic Graph Database, compliant with W3C Standards.
+* [Blazegraph](https://blazegraph.com/) -- Blazegraph™ DB is a ultra high-performance graph database supporting Blueprints and RDF/SPARQL APIs.
+* [AllegroGraph](https://franz.com/agraph/) -- AllegroGraph is a purpose built, horizontal sharding, high-performance, persistent, graph and document database
+* [Apache Jena TDB](https://jena.apache.org/) --  a native high performance triple store
+* [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/index.html)
+* [Amazon Neptune](https://aws.amazon.com/neptune/) -- hosted graph database
+* [RDFox](https://www.oxfordsemantic.tech/product) -- in memory RDF triple store with reasoning
+
 _RDF Validation_
 * [YASHE](https://www.weso.es/YASHE/) -- A SheE editor with syntax checking and autocomplete
 * [RDFShape](http://rdfshape.weso.es) -- to extract shapes from RDF graphs :: A Web app and library to extract SHACL/ShEx
