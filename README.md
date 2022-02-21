@@ -39,3 +39,7 @@ _Annotation_
 * [Prodigy](https://prodi.gy/) - Annotation tool that uses active learning
 * [Hypothesis](https://web.hypothes.is/) - Web page annotation
 * [Doccano](https://doccano.herokuapp.com/) - Text Annotation
+
+_Mapping_
+* [Cocoda](https://coli-conc.gbv.de/cocoda/)
+* 
