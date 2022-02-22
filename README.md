@@ -43,3 +43,7 @@ _Annotation_
 _Mapping_
 * [Cocoda](https://coli-conc.gbv.de/cocoda/)
 * 
+
+_Data Portal_
+* [CKAN](https://ckan.org/)
+* [Omeka](https://github.com/omeka/omeka-s)
