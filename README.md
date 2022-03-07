@@ -17,7 +17,12 @@ _RDF Graph Databases_
 * [RDFox](https://www.oxfordsemantic.tech/product) -- in memory RDF triple store with reasoning
 
 _RDF Validation_
-* [YASHE](https://www.weso.es/YASHE/) -- A SheE editor with syntax checking and autocomplete
+* [EasyRDF Converter](https://www.easyrdf.org/converter) -- clean and transform RDF
+* [Turtle Validator](http://ttl.summerofcode.be/)
+* [YASHE](https://www.weso.es/YASHE/) -- A ShExeditor with syntax checking and autocomplete
+* [ShEx](http://shex.io/) -- 
+* [ShEx forms](https://ericprud.github.io/shex-form) -- Automatic form generation and ShEx validation tool by Eric P 
+* [SHACL Playground](https://shacl.org/playground/) -- validation tool for SHACL shapes
 * [RDFShape](http://rdfshape.weso.es) -- to extract shapes from RDF graphs :: A Web app and library to extract SHACL/ShEx
 * [SheXer](http://shexer.weso.es) -- to extract shapes from RDF graphs :: A library for automatic extraction of SHACL/ShEx
 * [Shape Designer](https://gitlab.inria.fr/jdusart/shexjapp) -- to extract shapes from RDF graphs :: A Java tool to extract SHACL/ShEx by Boneva et al
