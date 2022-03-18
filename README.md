@@ -16,6 +16,7 @@ _RDF Graph Databases_
 * [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/index.html)
 * [Amazon Neptune](https://aws.amazon.com/neptune/) -- hosted graph database
 * [RDFox](https://www.oxfordsemantic.tech/product) -- in memory RDF triple store with reasoning
+* [OxiGraph](https://github.com/oxigraph/oxigraph) -- Graph database based on RocksDb with SPARQL endpoint
 
 _RDF Validation_
 * [EasyRDF Converter](https://www.easyrdf.org/converter) -- clean and transform RDF
