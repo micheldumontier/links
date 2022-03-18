@@ -5,6 +5,7 @@ _RDF interaction_
 * [SPARQL Anything](https://sparql-anything.readthedocs.io/en/latest/) -- query local/remote documents with sparql, deploy local fuseki server with yasgui interface.
 * [YASGUI](https://github.com/TriplyDB/Yasgui) -- user interface for formulating SPARQL queries, with autocomplete.
 * [SPARKLIS](http://www.irisa.fr/LIS/ferre/sparklis/) -- interface that uses a controlled natural language to query SPARQL endpoints
+* [AtomGraph](https://github.com/AtomGraph/Processor) -- Linked Data Processor for SPARQL endpoints
 
 _RDF Graph Databases_
 * [Virtuoso](http://vos.openlinksw.com/owiki/wiki/VOS) --  Virtuoso is a high-performance object-relational SQL database with WebDAV and SPARQL embedded into SQL for querying RDF data.
@@ -38,6 +39,7 @@ _RDF Validation_
 _Synthetic Data Generation_
 * [Syntho](https://www.syntho.ai)
 * [Synthetic Data Vault](https://sdv.dev/)
+* [SynthEHR](https://github.com/baowaly/SynthEHR)
 
 _Annotation_
 * [Label Studio](https://labelstud.io/playground/#) - Mixed annotation
