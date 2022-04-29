@@ -43,6 +43,7 @@ _Rule Learning_
 * [AIME](https://github.com/lajus/amie)
 
 _KG Embeddings_
+* [LibKGE](https://github.com/uma-pi1/kge)
 * [PyKeen](https://pykeen.readthedocs.io/en/stable/index.html)
 
 _Synthetic Data Generation_
