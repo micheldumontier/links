@@ -56,6 +56,9 @@ _Annotation_
 * [Hypothesis](https://web.hypothes.is/) - Web page annotation
 * [Doccano](https://doccano.herokuapp.com/) - Text Annotation
 
+_Text Processing_
+* [Readability measures](https://pypi.org/project/py-readability-metrics/)
+
 _Mapping_
 * [Cocoda](https://coli-conc.gbv.de/cocoda/)
 * 
