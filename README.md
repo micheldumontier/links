@@ -42,6 +42,9 @@ _Rule Learning_
 * [SAFRAN](https://github.com/OpenBioLink/SAFRAN)
 * [AIME](https://github.com/lajus/amie)
 
+_KG Embeddings_
+* [PyKeen](https://pykeen.readthedocs.io/en/stable/index.html)
+
 _Synthetic Data Generation_
 * [Syntho](https://www.syntho.ai)
 * [Synthetic Data Vault](https://sdv.dev/)
