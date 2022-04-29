@@ -37,6 +37,11 @@ _RDF Validation_
 * Shapes extraction using ontology patterns: -- to extract shapes from Ontologies :: Towards improving the quality of knowledge graphs with data-driven ontology patterns and SHACL by Spahiu et al.
 * Protégé -- to define shapes manually
 
+_Rule Learning_
+* [AnyBURL](https://web.informatik.uni-mannheim.de/AnyBURL/)
+* [SAFRAN](https://github.com/OpenBioLink/SAFRAN)
+* [AIME](https://github.com/lajus/amie)
+
 _Synthetic Data Generation_
 * [Syntho](https://www.syntho.ai)
 * [Synthetic Data Vault](https://sdv.dev/)
