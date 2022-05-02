@@ -37,12 +37,10 @@ _RDF Validation_
 * Shapes extraction using ontology patterns: -- to extract shapes from Ontologies :: Towards improving the quality of knowledge graphs with data-driven ontology patterns and SHACL by Spahiu et al.
 * Protégé -- to define shapes manually
 
-_Rule Learning_
+_Rule Learning & KG Embeddings_
 * [AnyBURL](https://web.informatik.uni-mannheim.de/AnyBURL/)
 * [SAFRAN](https://github.com/OpenBioLink/SAFRAN)
 * [AIME](https://github.com/lajus/amie)
-
-_KG Embeddings_
 * [LibKGE](https://github.com/uma-pi1/kge)
 * [PyKeen](https://pykeen.readthedocs.io/en/stable/index.html)
 
@@ -59,6 +57,7 @@ _Annotation_
 
 _Text Processing_
 * [Readability measures](https://pypi.org/project/py-readability-metrics/)
+* [SentenceBERT](https://www.sbert.net/index.html)
 
 _Mapping_
 * [Cocoda](https://coli-conc.gbv.de/cocoda/)
