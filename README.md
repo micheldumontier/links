@@ -66,3 +66,14 @@ _Mapping_
 _Data Portal_
 * [CKAN](https://ckan.org/)
 * [Omeka](https://github.com/omeka/omeka-s)
+
+_Companies of Interest_
+* [relationalAI](https://relational.ai)
+* [stardog](https://www.stardog.com)
+* [metaphacts](https://metaphacts.com)
+* [ontoforce](https://www.ontoforce.com)
+*
+* [Graphable](https://www.graphable.ai)
+* [KatanaGraph](https://katanagraph.com)
+* [TigerGraphDb](https://www.tigergraph.com) - scalable graph database 
+* [origintrail](https://origintrail.io) - decentralized knowledge graph
