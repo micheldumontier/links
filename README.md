@@ -82,3 +82,6 @@ _Companies of Interest_
 
 _Policy_
 * [Collibra ROI calculator](https://www.collibra.com/us/en/roi-calculator)
+
+_Pipelines_
+* [Orchest](https://www.orchest.io/) - visual python pipeline editor, executable over a kubernetes cluster
