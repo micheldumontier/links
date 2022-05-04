@@ -7,6 +7,7 @@ _RDF interaction_
 * [SPARKLIS](http://www.irisa.fr/LIS/ferre/sparklis/) -- interface that uses a controlled natural language to query SPARQL endpoints
 * [AtomGraph](https://github.com/AtomGraph/Processor) -- Linked Data Processor for SPARQL endpoints
 * [Sketch](https://sketch.zazuko.com/) -- Compose/validate RDF and obtain a graphical visualization
+* [SPARQLNotebook](https://marketplace.visualstudio.com/items?itemName=Zazuko.sparql-notebook) -- SPARQL notebook for VSCode
 
 _RDF Graph Databases_
 * [Virtuoso](http://vos.openlinksw.com/owiki/wiki/VOS) --  Virtuoso is a high-performance object-relational SQL database with WebDAV and SPARQL embedded into SQL for querying RDF data.
