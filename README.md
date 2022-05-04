@@ -78,3 +78,6 @@ _Companies of Interest_
 * [KatanaGraph](https://katanagraph.com)
 * [TigerGraphDb](https://www.tigergraph.com) - scalable graph database 
 * [origintrail](https://origintrail.io) - decentralized knowledge graph
+
+_Policy_
+* [Collibra ROI calculator](https://www.collibra.com/us/en/roi-calculator)
