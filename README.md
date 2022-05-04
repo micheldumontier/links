@@ -6,6 +6,7 @@ _RDF interaction_
 * [YASGUI](https://github.com/TriplyDB/Yasgui) -- user interface for formulating SPARQL queries, with autocomplete.
 * [SPARKLIS](http://www.irisa.fr/LIS/ferre/sparklis/) -- interface that uses a controlled natural language to query SPARQL endpoints
 * [AtomGraph](https://github.com/AtomGraph/Processor) -- Linked Data Processor for SPARQL endpoints
+* [Sketch](https://sketch.zazuko.com/) -- Compose/validate RDF and obtain a graphical visualization
 
 _RDF Graph Databases_
 * [Virtuoso](http://vos.openlinksw.com/owiki/wiki/VOS) --  Virtuoso is a high-performance object-relational SQL database with WebDAV and SPARQL embedded into SQL for querying RDF data.
