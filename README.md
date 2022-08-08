@@ -8,6 +8,7 @@ _RDF interaction_
 * [AtomGraph](https://github.com/AtomGraph/Processor) -- Linked Data Processor for SPARQL endpoints
 * [Sketch](https://sketch.zazuko.com/) -- Compose/validate RDF and obtain a graphical visualization
 * [SPARQLNotebook](https://marketplace.visualstudio.com/items?itemName=Zazuko.sparql-notebook) -- SPARQL notebook for VSCode
+* [SPARQL-ML](https://github.com/frmichel/sparql-micro-service) -- SPARQL microservices
 
 _RDF Graph Databases_
 * [Virtuoso](http://vos.openlinksw.com/owiki/wiki/VOS) --  Virtuoso is a high-performance object-relational SQL database with WebDAV and SPARQL embedded into SQL for querying RDF data.
