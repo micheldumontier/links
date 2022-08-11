@@ -88,3 +88,8 @@ _Policy_
 
 _Pipelines_
 * [Orchest](https://www.orchest.io/) - visual python pipeline editor, executable over a kubernetes cluster
+
+_Text2X_
+* [DiffSound](https://dongchaoyang.top/text-to-sound-synthesis-demo/) - Text to Sound
+* [DALL-E2](https://openai.com/dall-e-2/) - Text to Image
+* [GPT-3](https://openai.com/) - Text to Text
