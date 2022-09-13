@@ -95,3 +95,4 @@ _DeepLearning_
 * [GPT-3](https://openai.com/) - Text to Text
 * [CLIP](https://github.com/openai/clip)- Contrastive Language-Image Pre-Training (CLIP)
 * [StableDiffusion](https://replicate.com/stability-ai/stable-diffusion) - A latent text-to-image diffusion model to generate photo-realistic images given any text input 
+* [ExplainableAI](https://github.com/flyingdoog/awesome-graph-explainability-papers) - A list of xAI papers
