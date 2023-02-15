@@ -1,6 +1,14 @@
 # links
 to capture links to various resources
 
+_SPARQL Endpoints_
+* [Bio2RDF](https://bio2rdf.org/sparql)
+* [Nanopub](https://virtuoso.nps.petapico.org/sparql)
+* [GO](http://rdf.geneontology.org/blazegraph/sparql)
+* [UniProt](https://sparql.uniprot.org/)
+* [EBI RDF](https://www.ebi.ac.uk/rdf/services/sparql) - not functional (last checked 15-02-2023)
+
+
 _RDF interaction_
 * [SPARQL Anything](https://sparql-anything.readthedocs.io/en/latest/) -- query local/remote documents with sparql, deploy local fuseki server with yasgui interface.
 * [YASGUI](https://github.com/TriplyDB/Yasgui) -- user interface for formulating SPARQL queries, with autocomplete.
