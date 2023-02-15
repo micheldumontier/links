@@ -1,14 +1,6 @@
 # links
 to capture links to various resources
 
-_SPARQL Endpoints_
-* [Bio2RDF](https://bio2rdf.org/sparql)
-* [Nanopub](https://virtuoso.nps.petapico.org/sparql)
-* [GO](http://rdf.geneontology.org/blazegraph/sparql)
-* [UniProt](https://sparql.uniprot.org/)
-* [EBI RDF](https://www.ebi.ac.uk/rdf/services/sparql) - not functional (last checked 15-02-2023)
-
-
 _RDF interaction_
 * [SPARQL Anything](https://sparql-anything.readthedocs.io/en/latest/) -- query local/remote documents with sparql, deploy local fuseki server with yasgui interface.
 * [YASGUI](https://github.com/TriplyDB/Yasgui) -- user interface for formulating SPARQL queries, with autocomplete.
@@ -18,6 +10,7 @@ _RDF interaction_
 * [SPARQLNotebook](https://marketplace.visualstudio.com/items?itemName=Zazuko.sparql-notebook) -- SPARQL notebook for VSCode
 * [SPARQL-ML](https://github.com/frmichel/sparql-micro-service) -- SPARQL microservices
 * [GRLC](http://grlc.io) -- Expose SPARQL queries as serverless RESTful services 
+* [SPARQL-Annotation-Syntax](https://github.com/CLARIAH/grlc#decorator-syntax) -- compatible with grlc services
 
 _RDF Graph Databases_
 * [Virtuoso](http://vos.openlinksw.com/owiki/wiki/VOS) --  Virtuoso is a high-performance object-relational SQL database with WebDAV and SPARQL embedded into SQL for querying RDF data.
@@ -56,6 +49,28 @@ _Rule Learning & KG Embeddings_
 * [AIME](https://github.com/lajus/amie)
 * [LibKGE](https://github.com/uma-pi1/kge)
 * [PyKeen](https://pykeen.readthedocs.io/en/stable/index.html)
+
+_SPARQL Endpoints_
+* [NeuroDKG](https://graphdb.dumontierlab.com/repositories/NeuroDKG)
+* [FoodHealthClaims](https://graphdb.dumontierlab.com/repositories/FoodHealthClaimsKG)
+* [Bio2RDF](https://bio2rdf.org/sparql)
+* [Nanopubs](https://virtuoso.nps.petapico.org/sparql)
+* [GO](http://rdf.geneontology.org/blazegraph/sparql)
+* [UniProt](https://sparql.uniprot.org/)
+* [DBPedia](http://dbpedia.org/sparql)
+* [Wikidata](https://query.wikidata.org/sparql) -- GET only
+* [Wikipathways](http://sparql.wikipathways.org/)
+* [Riken](https://knowledge.brc.riken.jp/endpoint)
+* [RENCI-ubergraph]([https://ubergraph.apps.renci.org/sparql)
+* [KG-Hub](http://kg-hub-rdf.berkeleybop.io/blazegraph/sparql)
+* [LOD-by-OpenLink](http://lod.openlinksw.com/sparql)
+* [OMA](https://sparql.omabrowser.org/lode/sparql) - orthologous matrix
+* [Foodie-Cloud](https://www.foodie-cloud.org/sparql)
+* [LSQ](http://lsq.aksw.org/sparql)
+* [European Environment Agency](http://semantic.eea.europa.eu/sparql)
+* [LinkedLifeData](http://linkedlifedata.com/sparql)
+* [EBI RDF](https://www.ebi.ac.uk/rdf/services/sparql) - not functional (last checked 15-02-2023)
+
 
 _Synthetic Data Generation_
 * [Syntho](https://www.syntho.ai)
