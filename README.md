@@ -61,7 +61,7 @@ _SPARQL Endpoints_
 * [Wikidata](https://query.wikidata.org/sparql) -- GET only
 * [Wikipathways](http://sparql.wikipathways.org/)
 * [Riken](https://knowledge.brc.riken.jp/endpoint)
-* [RENCI-ubergraph]([https://ubergraph.apps.renci.org/sparql)
+* [RENCI-ubergraph](https://ubergraph.apps.renci.org/sparql)
 * [KG-Hub](http://kg-hub-rdf.berkeleybop.io/blazegraph/sparql)
 * [LOD-by-OpenLink](http://lod.openlinksw.com/sparql)
 * [OMA](https://sparql.omabrowser.org/lode/sparql) - orthologous matrix
