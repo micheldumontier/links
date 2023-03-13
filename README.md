@@ -120,3 +120,8 @@ _DeepLearning_
 * [CLIP](https://github.com/openai/clip)- Contrastive Language-Image Pre-Training (CLIP)
 * [StableDiffusion](https://replicate.com/stability-ai/stable-diffusion) - A latent text-to-image diffusion model to generate photo-realistic images given any text input 
 * [ExplainableAI](https://github.com/flyingdoog/awesome-graph-explainability-papers) - A list of xAI papers
+* [DGL](https://docs.dgl.ai/] -- Deep Graph Library is a Python package built for graph neural networks on top of existing DL frameworks (PyTorch, MXNet and TensorFlow)
+* [LangChain](https://langchain.readthedocs.io/en/latest/index.html) - Incorporates other elements with LLM
+
+_Drug Discovery_
+* [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)
