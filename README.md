@@ -71,11 +71,26 @@ _SPARQL Endpoints_
 * [LinkedLifeData](http://linkedlifedata.com/sparql)
 * [EBI RDF](https://www.ebi.ac.uk/rdf/services/sparql) - not functional (last checked 15-02-2023)
 
+_Knowledge Graphs_
+* [PrimeKG](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
+* [DRKG](https://github.com/gnn4dr/DRKG)
+* [HetIo](https://het.io/)
+* [BioKG](https://github.com/dsi-bdi/biokg)
+* [PharmKG](https://github.com/MindRank-Biotech/PharmKG)
+* [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink)
+* [Clinical Knowledge Graph](https://ckg.readthedocs.io/en/latest/INTRO.html)
+* [RTX-KG2](https://github.com/RTXteam/RTX-KG2)
+
+_Drug Resources_
+* [DrugCentral](https://drugcentral.org/) - curated drug indications
+* [DrugMechDB](https://sulab.github.io/DrugMechDB/index.html) - curated drug mechanisms of action
+
 
 _Synthetic Data Generation_
 * [Syntho](https://www.syntho.ai)
 * [Synthetic Data Vault](https://sdv.dev/)
 * [SynthEHR](https://github.com/baowaly/SynthEHR)
+
 
 _Annotation_
 * [Label Studio](https://labelstud.io/playground/#) - Mixed annotation
