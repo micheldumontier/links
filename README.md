@@ -50,6 +50,13 @@ _Rule Learning & KG Embeddings_
 * [LibKGE](https://github.com/uma-pi1/kge)
 * [PyKeen](https://pykeen.readthedocs.io/en/stable/index.html)
 
+_Explainable AI_
+* [Awesome Graph Explainability](https://github.com/flyingdoog/awesome-graph-explainability-papers) - graph explainability papers  
+* [KELPIE](https://github.com/AndRossi/Kelpie) - XAI framework for interpreting Link Predictions on Knowledge Graphs
+* [SHAP](https://shap.readthedocs.io/en/latest/index.html) - SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.
+* [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/tutorial/explain.html) - Pytorch GNN explainability
+* 
+
 _SPARQL Endpoints_
 * [NeuroDKG](https://graphdb.dumontierlab.com/repositories/NeuroDKG)
 * [FoodHealthClaims](https://graphdb.dumontierlab.com/repositories/FoodHealthClaimsKG)
