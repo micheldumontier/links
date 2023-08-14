@@ -7,6 +7,7 @@ _RDF interaction_
 * [SPARKLIS](http://www.irisa.fr/LIS/ferre/sparklis/) -- interface that uses a controlled natural language to query SPARQL endpoints
 * [AtomGraph](https://github.com/AtomGraph/Processor) -- Linked Data Processor for SPARQL endpoints
 * [Sketch](https://sketch.zazuko.com/) -- Compose/validate RDF and obtain a graphical visualization
+* [LodLive](https://github.com/LodLive/LodLive) -- Explore SPARQL/IRI entities in a graphical manner.
 * [SPARQLNotebook](https://marketplace.visualstudio.com/items?itemName=Zazuko.sparql-notebook) -- SPARQL notebook for VSCode
 * [SPARQL-ML](https://github.com/frmichel/sparql-micro-service) -- SPARQL microservices
 * [GRLC](http://grlc.io) -- Expose SPARQL queries as serverless RESTful services 
