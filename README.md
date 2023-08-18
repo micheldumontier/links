@@ -148,3 +148,8 @@ _DeepLearning_
 
 _Drug Discovery_
 * [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)
+
+_LLM_
+* [LangChain](https://python.langchain.com/)
+* [Text Splitter Playground](https://langchain-text-splitter.streamlit.app/)
+* [LLAMA2](https://ai.meta.com/llama/)
