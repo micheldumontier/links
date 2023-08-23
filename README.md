@@ -78,6 +78,7 @@ _SPARQL Endpoints_
 * [European Environment Agency](http://semantic.eea.europa.eu/sparql)
 * [LinkedLifeData](http://linkedlifedata.com/sparql)
 * [EBI RDF](https://www.ebi.ac.uk/rdf/services/sparql) - not functional (last checked 15-02-2023)
+* [SemOpenAlex](https://semopenalex.org/)
 
 _Knowledge Graphs_
 * [PrimeKG](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
