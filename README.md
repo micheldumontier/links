@@ -140,8 +140,9 @@ _Pipelines_
 _DeepLearning_
 * [DiffSound](https://dongchaoyang.top/text-to-sound-synthesis-demo/) - Text to Sound
 * [DALL-E2](https://openai.com/dall-e-2/) - Text to Image
-* [GPT-3](https://openai.com/) - Text to Text
+* [GPT-4](https://openai.com/) - Text to Text
 * [CLIP](https://github.com/openai/clip)- Contrastive Language-Image Pre-Training (CLIP)
+* [NExT-GPT](https://next-gpt.github.io/) - Any-to-Any Multi-modal GPT
 * [StableDiffusion](https://replicate.com/stability-ai/stable-diffusion) - A latent text-to-image diffusion model to generate photo-realistic images given any text input 
 * [ExplainableAI](https://github.com/flyingdoog/awesome-graph-explainability-papers) - A list of xAI papers
 * [DGL](https://docs.dgl.ai/) -- Deep Graph Library is a Python package built for graph neural networks on top of existing DL frameworks (PyTorch, MXNet and TensorFlow)
