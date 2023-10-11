@@ -155,3 +155,5 @@ _LLM_
 * [LangChain](https://python.langchain.com/)
 * [Text Splitter Playground](https://langchain-text-splitter.streamlit.app/)
 * [LLAMA2](https://ai.meta.com/llama/)
+* [BEHRT](https://www.nature.com/articles/s41598-020-62922-y) - EHR Transformer
+* [BLOOM](https://huggingface.co/bigscience/bloom) - open source multi-modal, multi-lingual transfomer
