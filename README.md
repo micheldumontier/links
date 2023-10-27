@@ -153,6 +153,7 @@ _Drug Discovery_
 
 _LLM_
 * [LangChain](https://python.langchain.com/)
+* [LLMWare](https://github.com/llmware-ai/llmware)
 * [Text Splitter Playground](https://langchain-text-splitter.streamlit.app/)
 * [LLAMA2](https://ai.meta.com/llama/)
 * [BEHRT](https://www.nature.com/articles/s41598-020-62922-y) - EHR Transformer
