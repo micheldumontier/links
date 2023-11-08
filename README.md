@@ -31,6 +31,7 @@ _RDF Validation_
 * [ShEx](http://shex.io/) -- 
 * [ShEx forms](https://ericprud.github.io/shex-form) -- Automatic form generation and ShEx validation tool by Eric P 
 * [SHACL Playground](https://shacl.org/playground/) -- validation tool for SHACL shapes
+* [SHACL Validator](https://www.itb.ec.europa.eu/shacl/any/upload)
 * [RDFShape](http://rdfshape.weso.es) -- to extract shapes from RDF graphs :: A Web app and library to extract SHACL/ShEx
 * [SheXer](http://shexer.weso.es) -- to extract shapes from RDF graphs :: A library for automatic extraction of SHACL/ShEx
 * [Shape Designer](https://gitlab.inria.fr/jdusart/shexjapp) -- to extract shapes from RDF graphs :: A Java tool to extract SHACL/ShEx by Boneva et al
