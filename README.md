@@ -154,8 +154,11 @@ _Drug Discovery_
 * [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)
 
 _LLM_
-* [LangChain](https://python.langchain.com/)
-* [LLMWare](https://github.com/llmware-ai/llmware)
+* [LangChain](https://python.langchain.com/) - Build context-aware, reasoning applications 
+* [OLLama]() - Run Llama 2, Code Llama, and other models
+* [LLMWare](https://github.com/llmware-ai/llmware) - LLM with RAG
+* [VLLM](https://docs.vllm.ai/en/latest/index.html) - LLM inference and serving
+* [privateGPT](https://docs.privategpt.dev/) - API to build private, context-aware AI application
 * [Text Splitter Playground](https://langchain-text-splitter.streamlit.app/)
 * [LLAMA2](https://ai.meta.com/llama/)
 * [BEHRT](https://www.nature.com/articles/s41598-020-62922-y) - EHR Transformer
