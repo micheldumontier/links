@@ -158,6 +158,7 @@ _LLM_
 * [OLLama]() - Run Llama 2, Code Llama, and other models
 * [LLMWare](https://github.com/llmware-ai/llmware) - LLM with RAG
 * [VLLM](https://docs.vllm.ai/en/latest/index.html) - LLM inference and serving
+* [LLAMACPP](https://github.com/abetlen/llama-cpp-python) - python bindings for c++ implementation to access llama models
 * [privateGPT](https://docs.privategpt.dev/) - API to build private, context-aware AI application
 * [Text Splitter Playground](https://langchain-text-splitter.streamlit.app/)
 * [LLAMA2](https://ai.meta.com/llama/)
