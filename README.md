@@ -25,6 +25,7 @@ _RDF Graph Databases_
 * [OxiGraph](https://github.com/oxigraph/oxigraph) -- Graph database based on RocksDb with SPARQL endpoint
 
 _RDF Validation_
+* [SoWasm](https://perso.liris.cnrs.fr/pierre-antoine.champin/2023/sowasm) - online RDF conversion tool
 * [EasyRDF Converter](https://www.easyrdf.org/converter) -- clean and transform RDF
 * [Turtle Validator](http://ttl.summerofcode.be/)
 * [YASHE](https://www.weso.es/YASHE/) -- A ShExeditor with syntax checking and autocomplete
