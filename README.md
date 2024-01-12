@@ -156,7 +156,7 @@ _Drug Discovery_
 
 _LLM_
 * [LangChain](https://python.langchain.com/) - Build context-aware, reasoning applications 
-* [OLLama]() - Run Llama 2, Code Llama, and other models
+* [OLLama](https://github.com/jmorganca/ollama) - Run Llama 2, Code Llama, and other models
 * [LLMWare](https://github.com/llmware-ai/llmware) - LLM with RAG
 * [VLLM](https://docs.vllm.ai/en/latest/index.html) - LLM inference and serving
 * [LLAMACPP](https://github.com/abetlen/llama-cpp-python) - python bindings for c++ implementation to access llama models
