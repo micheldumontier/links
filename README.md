@@ -161,6 +161,7 @@ _LLM_
 * [VLLM](https://docs.vllm.ai/en/latest/index.html) - LLM inference and serving
 * [LLAMACPP](https://github.com/abetlen/llama-cpp-python) - python bindings for c++ implementation to access llama models
 * [privateGPT](https://docs.privategpt.dev/) - API to build private, context-aware AI application
+* [blindChat](https://github.com/mithril-security/blind_chat) - in-browser privacy solution to make Conversational AI privacy-friendly 
 * [Text Splitter Playground](https://langchain-text-splitter.streamlit.app/)
 * [LLAMA2](https://ai.meta.com/llama/)
 * [BEHRT](https://www.nature.com/articles/s41598-020-62922-y) - EHR Transformer
