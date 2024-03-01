@@ -40,6 +40,7 @@ _RDF Validation_
 * UnSHACLed -- to extract shapes from RDF graphs :: Defining constraints over RDF
 * [SHACLGEN](https://pypi.org/project/shaclgen/) -- to extract shapes from RDF graphs or Ontologies :: A Python library to extract SHACL shapes
 * [TopBraid Composer](https://www.topquadrant.com/products/topbraid-composer/) -- to extract shapes from RDF graphs or Ontologies
+* [TopBrain SHACL API](https://github.com/TopQuadrant/shacl)
 * [Astrea](https://astrea.linkeddata.es) -- to extract shapes from Ontologies :: Automatic extraction of SHACL shapes
 * [SHACL Play](https://shacl-play.sparna.fr/play/) -- to extract shapes from Ontologies :: OWL to SHACL converter 
 * Shapes extraction using ontology patterns: -- to extract shapes from Ontologies :: Towards improving the quality of knowledge graphs with data-driven ontology patterns and SHACL by Spahiu et al.
