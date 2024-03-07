@@ -167,3 +167,4 @@ _LLM_
 * [LLAMA2](https://ai.meta.com/llama/)
 * [BEHRT](https://www.nature.com/articles/s41598-020-62922-y) - EHR Transformer
 * [BLOOM](https://huggingface.co/bigscience/bloom) - open source multi-modal, multi-lingual transfomer
+* [AwesomeGraphLLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) - list of papers and code for graph llms
