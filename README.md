@@ -49,6 +49,7 @@ _RDF Validation_
 
 _Rule Learning & KG Embeddings_
 * [AnyBURL](https://web.informatik.uni-mannheim.de/AnyBURL/)
+* [PyClause](https://pyclause.readthedocs.io/en/latest/index.html)
 * [SAFRAN](https://github.com/OpenBioLink/SAFRAN)
 * [AIME](https://github.com/lajus/amie)
 * [LibKGE](https://github.com/uma-pi1/kge)
