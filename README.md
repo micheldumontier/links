@@ -60,7 +60,7 @@ _Explainable AI_
 * [KELPIE](https://github.com/AndRossi/Kelpie) - XAI framework for interpreting Link Predictions on Knowledge Graphs
 * [SHAP](https://shap.readthedocs.io/en/latest/index.html) - SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.
 * [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/tutorial/explain.html) - Pytorch GNN explainability
-* 
+
 
 _SPARQL Endpoints_
 * [NeuroDKG](https://graphdb.dumontierlab.com/repositories/NeuroDKG)
@@ -94,12 +94,20 @@ _Knowledge Graphs_
 * [Clinical Knowledge Graph](https://ckg.readthedocs.io/en/latest/INTRO.html)
 * [RTX-KG2](https://github.com/RTXteam/RTX-KG2)
 
+_Health Data_
+* [UKBioBank](https://www.ukbiobank.ac.uk/)
+* [FinnGen](https://www.finngen.fi/en)
+* [ADNI](https://adni.loni.usc.edu/)
+* [MIMIC](https://physionet.org/content/mimiciii/1.4/)
+* [YAIB](https://github.com/rvandewater/YAIB-models) - Yet Another ICU Benchmark (YAIB)
+
 _Drug Resources_
 * [DrugCentral](https://drugcentral.org/) - curated drug indications
 * [DrugMechDB](https://sulab.github.io/DrugMechDB/index.html) - curated drug mechanisms of action
 
 
 _Synthetic Data Generation_
+* [DPCGANS](https://github.com/sunchang0124/dp_cgans) -DP-CGANS (Differentially Private - Conditional Generative Adversarial NetworkS)
 * [Syntho](https://www.syntho.ai)
 * [Synthetic Data Vault](https://sdv.dev/)
 * [SynthEHR](https://github.com/baowaly/SynthEHR)
