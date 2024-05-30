@@ -160,6 +160,7 @@ _DeepLearning_
 * [DGL](https://docs.dgl.ai/) -- Deep Graph Library is a Python package built for graph neural networks on top of existing DL frameworks (PyTorch, MXNet and TensorFlow)
 * [LangChain](https://langchain.readthedocs.io/en/latest/index.html) - Incorporates other elements with LLM
 * [CTransfomers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
+* [GNNShap](https://github.com/HipGraph/GNNShap)
 
 _Drug Discovery_
 * [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)
