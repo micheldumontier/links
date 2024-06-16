@@ -12,6 +12,7 @@ _RDF interaction_
 * [SPARQL-ML](https://github.com/frmichel/sparql-micro-service) -- SPARQL microservices
 * [GRLC](http://grlc.io) -- Expose SPARQL queries as serverless RESTful services 
 * [SPARQL-Annotation-Syntax](https://github.com/CLARIAH/grlc#decorator-syntax) -- compatible with grlc services
+* [SANSA](https://sansa-stack.net/) - SANSA is a big data engine for scalable processing of large-scale RDF data. 
 
 _RDF Graph Databases_
 * [Virtuoso](http://vos.openlinksw.com/owiki/wiki/VOS) --  Virtuoso is a high-performance object-relational SQL database with WebDAV and SPARQL embedded into SQL for querying RDF data.
