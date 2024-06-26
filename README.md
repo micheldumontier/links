@@ -90,6 +90,7 @@ _Knowledge Graphs_
 * [DRKG](https://github.com/gnn4dr/DRKG)
 * [HetIo](https://het.io/)
 * [BioKG](https://github.com/dsi-bdi/biokg)
+* [pyBioDataFuse](https://github.com/BioDataFuse/pyBiodatafuse)
 * [PharmKG](https://github.com/MindRank-Biotech/PharmKG)
 * [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink)
 * [Clinical Knowledge Graph](https://ckg.readthedocs.io/en/latest/INTRO.html)
