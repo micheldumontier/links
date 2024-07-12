@@ -171,9 +171,10 @@ _Drug Discovery_
 * [Therapeutic Data Commons](https://tdcommons.ai/)
 
 _LLM_
-* [LangChain](https://python.langchain.com/) - Build context-aware, reasoning applications 
-* [OLLama](https://github.com/jmorganca/ollama) - Run Llama 2, Code Llama, and other models
+* [LangChain](https://python.langchain.com/) - Build context-aware, reasoning applications
+* [LlamaIndex](https://www.llamaindex.ai/) - LLamaIndex framework for LLM applications
 * [LLMWare](https://github.com/llmware-ai/llmware) - LLM with RAG
+* [OLLama](https://github.com/jmorganca/ollama) - Run Llama 2, Code Llama, and other models
 * [VLLM](https://docs.vllm.ai/en/latest/index.html) - LLM inference and serving
 * [LLAMACPP](https://github.com/abetlen/llama-cpp-python) - python bindings for c++ implementation to access llama models
 * [privateGPT](https://docs.privategpt.dev/) - API to build private, context-aware AI application
@@ -184,3 +185,5 @@ _LLM_
 * [BLOOM](https://huggingface.co/bigscience/bloom) - open source multi-modal, multi-lingual transfomer
 * [AwesomeGraphLLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) - list of papers and code for graph llms
 * [TruLens](https://www.trulens.org/) - LLM evaluation
+* [GraphRAG](https://github.com/microsoft/graphrag) - GraphRAG from microsoft
+* [CrewAI](https://docs.crewai.com/) - CrewAI
