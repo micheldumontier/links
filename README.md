@@ -167,6 +167,11 @@ _DeepLearning_
 * [CTransfomers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
 * [GNNShap](https://github.com/HipGraph/GNNShap)
 
+_Responsible AI_
+* [MIDRC Bias awareness Tool](https://www.midrc.org/bias-awareness-tool-1)
+* [MIDRC Diversity Calculator](https://github.com/MIDRC/MIDRC_Diversity_Calculator)
+
+  
 _Drug Discovery_
 * [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)
 * [Therapeutic Data Commons](https://tdcommons.ai/)
