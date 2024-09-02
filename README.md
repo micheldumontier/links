@@ -17,6 +17,8 @@ _RDF interaction_
 * [KinGVisher](https://wse-research.org/knowledge-graph-visualizer/) SPARQL endpoint graph visualization
 * [VoidGenerator](https://github.com/JervenBolleman/void-generator)
 * [SparqlEditor](https://github.com/sib-swiss/sparql-editor) - yasgui with autocomplete
+* [Rudof](https://github.com/rudof-project/rudof) - genenerate shex shapes and convert rdf
+* [Shexer](https://github.com/DaniFdezAlvarez/shexer) - learn shex shapes from rdf files
 
 _RDF Graph Databases_
 * [Virtuoso](http://vos.openlinksw.com/owiki/wiki/VOS) --  Virtuoso is a high-performance object-relational SQL database with WebDAV and SPARQL embedded into SQL for querying RDF data.
