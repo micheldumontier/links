@@ -15,6 +15,8 @@ _RDF interaction_
 * [SANSA](https://sansa-stack.net/) - SANSA is a big data engine for scalable processing of large-scale RDF data.
 * [OntoGen](https://ontogen.io/) - RDF version control
 * [KinGVisher](https://wse-research.org/knowledge-graph-visualizer/) SPARQL endpoint graph visualization
+* [VoidGenerator](https://github.com/JervenBolleman/void-generator)
+* [SparqlEditor](https://github.com/sib-swiss/sparql-editor) - yasgui with autocomplete
 
 _RDF Graph Databases_
 * [Virtuoso](http://vos.openlinksw.com/owiki/wiki/VOS) --  Virtuoso is a high-performance object-relational SQL database with WebDAV and SPARQL embedded into SQL for querying RDF data.
