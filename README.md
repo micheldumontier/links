@@ -96,6 +96,7 @@ _Knowledge Graphs_
 * [PrimeKG](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
 * [DRKG](https://github.com/gnn4dr/DRKG)
 * [HetIo](https://het.io/)
+* [Bioteque](https://gitlabsbnb.irbbarcelona.org/bioteque/bioteque)
 * [BioKG](https://github.com/dsi-bdi/biokg)
 * [pyBioDataFuse](https://github.com/BioDataFuse/pyBiodatafuse)
 * [PharmKG](https://github.com/MindRank-Biotech/PharmKG)
