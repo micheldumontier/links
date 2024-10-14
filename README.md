@@ -202,3 +202,4 @@ _LLM_
 * [TruLens](https://www.trulens.org/) - LLM evaluation
 * [GraphRAG](https://github.com/microsoft/graphrag) - GraphRAG from microsoft
 * [CrewAI](https://docs.crewai.com/) - CrewAI
+* [OpenR](https://github.com/openreasoner/openr) - open source LLM reasoning system
