@@ -55,6 +55,9 @@ _RDF Validation_
 * Protégé -- to define shapes manually
 * [Shaperone playground](https://forms.hypermedia.app/playground/) 
 
+_Ontology_
+* [OntoFlow](https://gitlab.com/infai/ontoflow)
+
 _Rule Learning & KG Embeddings_
 * [AnyBURL](https://web.informatik.uni-mannheim.de/AnyBURL/)
 * [PyClause](https://pyclause.readthedocs.io/en/latest/index.html)
