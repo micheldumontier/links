@@ -122,9 +122,11 @@ _Drug Resources_
 
 _Synthetic Data Generation_
 * [DPCGANS](https://github.com/sunchang0124/dp_cgans) -DP-CGANS (Differentially Private - Conditional Generative Adversarial NetworkS)
+* [OntoGAN](https://github.com/sunchang0124/onto-cgan) - OntoGAN - conditioinal generation of tabular data using ontology embeddings.
 * [Syntho](https://www.syntho.ai)
 * [Synthetic Data Vault](https://sdv.dev/)
 * [SynthEHR](https://github.com/baowaly/SynthEHR)
+* [SyntheMol](https://github.com/swansonk14/SyntheMol)
 
 
 _Annotation_
