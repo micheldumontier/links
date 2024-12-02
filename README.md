@@ -206,3 +206,5 @@ _LLM_
 * [GraphRAG](https://github.com/microsoft/graphrag) - GraphRAG from microsoft
 * [CrewAI](https://docs.crewai.com/) - CrewAI
 * [OpenR](https://github.com/openreasoner/openr) - open source LLM reasoning system
+* [LLM-KG-Bench](https://github.com/AKSW/LLM-KG-Bench) - LLM-KG benchmark framework
+  
