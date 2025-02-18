@@ -56,6 +56,8 @@ _RDF Validation_
 * [Shaperone playground](https://forms.hypermedia.app/playground/)
 * [ShaclEditor](https://github.com/firmao/shaclEditor)
 
+
+
 _Ontology_
 * [OntoFlow](https://gitlab.com/infai/ontoflow)
 
@@ -107,6 +109,11 @@ _Knowledge Graphs_
 * [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink)
 * [Clinical Knowledge Graph](https://ckg.readthedocs.io/en/latest/INTRO.html)
 * [RTX-KG2](https://github.com/RTXteam/RTX-KG2)
+
+_KG Quality_
+* [KGHeartBeat](https://github.com/isislab-unisa/KGHeartbeat) - KG quality assessment
+* [YummyData](https://yummmydata.org) - public SPARQL endpoint monitor
+* [SPARQLES](https://github.com/pyvandenbussche/sparqles) - SPARQL endpoint monitoring
 
 _Health Data_
 * [UKBioBank](https://www.ukbiobank.ac.uk/)
