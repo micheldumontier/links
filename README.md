@@ -194,6 +194,7 @@ _Responsible AI_
 _Drug Discovery_
 * [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)
 * [Therapeutic Data Commons](https://tdcommons.ai/)
+* [TorchDrug](https://torchdrug.ai/) machine learning platform designed for drug discovery
 
 _LLM_
 * [LangChain](https://python.langchain.com/) - Build context-aware, reasoning applications
