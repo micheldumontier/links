@@ -215,4 +215,8 @@ _LLM_
 * [CrewAI](https://docs.crewai.com/) - CrewAI
 * [OpenR](https://github.com/openreasoner/openr) - open source LLM reasoning system
 * [LLM-KG-Bench](https://github.com/AKSW/LLM-KG-Bench) - LLM-KG benchmark framework
-  
+
+_AI Scientists_
+* [SakanaAI](https://github.com/SakanaAI/AI-Scientist)
+* [Google AI co-scientists](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
+* 
