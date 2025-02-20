@@ -199,6 +199,7 @@ _Drug Discovery_
 _LLM_
 * [LangChain](https://python.langchain.com/) - Build context-aware, reasoning applications
 * [LlamaIndex](https://www.llamaindex.ai/) - LLamaIndex framework for LLM applications
+* [AI Suite](https://github.com/andrewyng/aisuite) - From Andrew Ng
 * [LLMWare](https://github.com/llmware-ai/llmware) - LLM with RAG
 * [OLLama](https://github.com/jmorganca/ollama) - Run Llama 2, Code Llama, and other models
 * [VLLM](https://docs.vllm.ai/en/latest/index.html) - LLM inference and serving
