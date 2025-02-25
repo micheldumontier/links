@@ -168,6 +168,8 @@ _Companies of Interest_
 _Policy_
 * [Collibra ROI calculator](https://www.collibra.com/us/en/roi-calculator)
 * [PLOT4ai - Privacy Library Of Threats 4 Artificial Intelligence](https://plot4.ai/)
+* [DataLicenseClearing](https://www.dalicc.net/)
+* [DataProtectionbyDesign](https://pmc.ncbi.nlm.nih.gov/articles/PMC9002473/)
 
 _Pipelines_
 * [Orchest](https://www.orchest.io/) - visual python pipeline editor, executable over a kubernetes cluster
