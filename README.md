@@ -198,6 +198,7 @@ _Drug Discovery_
 * [Therapeutic Data Commons](https://tdcommons.ai/)
 * [TorchDrug](https://torchdrug.ai/) machine learning platform designed for drug discovery
 * [Pinal] (https://github.com/westlake-repl/Denovo-Pinal) protein engineering
+* [DeepChem](https://deepchem.io/models/)
 
 _LLM_
 * [LangChain](https://python.langchain.com/) - Build context-aware, reasoning applications
