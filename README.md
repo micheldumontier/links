@@ -99,6 +99,7 @@ _SPARQL Endpoints_
 * [SemOpenAlex](https://semopenalex.org/)
 
 _Knowledge Graphs_
+* [KGregistry](https://kghub.org/kg-registry/)
 * [PrimeKG](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
 * [DRKG](https://github.com/gnn4dr/DRKG)
 * [HetIo](https://het.io/)
