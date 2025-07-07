@@ -110,6 +110,7 @@ _Knowledge Graphs_
 * [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink)
 * [Clinical Knowledge Graph](https://ckg.readthedocs.io/en/latest/INTRO.html)
 * [RTX-KG2](https://github.com/RTXteam/RTX-KG2)
+* [BasilKG](https://basil-db.github.io/index.html) - [github](https://github.com/basil-db/script)
 
 _KG Quality_
 * [KGHeartBeat](https://github.com/isislab-unisa/KGHeartbeat) - KG quality assessment
