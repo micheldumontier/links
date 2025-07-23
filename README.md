@@ -193,6 +193,7 @@ _DeepLearning_
 _Responsible AI_
 * [MIDRC Bias awareness Tool](https://www.midrc.org/bias-awareness-tool-1)
 * [MIDRC Diversity Calculator](https://github.com/MIDRC/MIDRC_Diversity_Calculator)
+* [DeepEval](https://github.com/confident-ai/deepeval)
 
   
 _Drug Discovery_
