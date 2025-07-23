@@ -223,6 +223,8 @@ _LLM_
 * [CrewAI](https://docs.crewai.com/) - CrewAI
 * [OpenR](https://github.com/openreasoner/openr) - open source LLM reasoning system
 * [LLM-KG-Bench](https://github.com/AKSW/LLM-KG-Bench) - LLM-KG benchmark framework
+* [AI-Hub](https://aihubmix.com/) 
+* [OpenRouter](https://openrouter.ai/) 
 
 _AI Scientists_
 * [SakanaAI](https://github.com/SakanaAI/AI-Scientist)
