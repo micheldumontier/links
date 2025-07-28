@@ -56,7 +56,9 @@ _RDF Validation_
 * [Shaperone playground](https://forms.hypermedia.app/playground/)
 * [ShaclEditor](https://github.com/firmao/shaclEditor)
 
-
+_text2sparql_
+* [Text2SPARQL agent](https://github.com/WSE-research/text2sparql-agent)
+* 
 
 _Ontology_
 * [OntoFlow](https://gitlab.com/infai/ontoflow)
