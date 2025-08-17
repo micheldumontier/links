@@ -125,6 +125,7 @@ _Health Data_
 * [ADNI](https://adni.loni.usc.edu/)
 * [MIMIC](https://physionet.org/content/mimiciii/1.4/)
 * [YAIB](https://github.com/rvandewater/YAIB-models) - Yet Another ICU Benchmark (YAIB)
+* [ICUData.nl](https://www.icudata.nl/)
 
 _Drug Resources_
 * [DrugCentral](https://drugcentral.org/) - curated drug indications
