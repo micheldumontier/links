@@ -227,7 +227,9 @@ _LLM_
 * [OpenR](https://github.com/openreasoner/openr) - open source LLM reasoning system
 * [LLM-KG-Bench](https://github.com/AKSW/LLM-KG-Bench) - LLM-KG benchmark framework
 * [AI-Hub](https://aihubmix.com/) 
-* [OpenRouter](https://openrouter.ai/) 
+* [OpenRouter](https://openrouter.ai/)
+* [HAIM](https://github.com/lrsoenksen/HAIM) - Holistic AI in Medicine (HAIM) 
+
 
 _AI Scientists_
 * [SakanaAI](https://github.com/SakanaAI/AI-Scientist)
