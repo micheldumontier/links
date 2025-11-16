@@ -126,6 +126,8 @@ _Health Data_
 * [MIMIC](https://physionet.org/content/mimiciii/1.4/)
 * [YAIB](https://github.com/rvandewater/YAIB-models) - Yet Another ICU Benchmark (YAIB)
 * [ICUData.nl](https://www.icudata.nl/)
+* [EHRSHOT](https://som-shahlab.github.io/ehrshot-website/) - Stanford Medicine
+* [TriNetX](https://trinetx.com/)
 
 _Drug Resources_
 * [DrugCentral](https://drugcentral.org/) - curated drug indications
